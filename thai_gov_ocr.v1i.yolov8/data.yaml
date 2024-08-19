@@ -1,0 +1,13 @@
+train: ../train/images
+val: ../valid/images
+test: ../test/images
+
+nc: 2
+names: ['-', '-s']
+
+roboflow:
+  workspace: hack2liver
+  project: thai_gov_ocr
+  version: 1
+  license: BY-NC-SA 4.0
+  url: https://universe.roboflow.com/hack2liver/thai_gov_ocr/dataset/1

@@ -1,0 +1,36 @@
+{
+    "os": "macOS-14.5-arm64-arm-64bit",
+    "python": "3.11.1",
+    "heartbeatAt": "2024-08-01T09:30:42.366864",
+    "startedAt": "2024-08-01T09:30:41.028204",
+    "docker": null,
+    "cuda": null,
+    "args": [],
+    "state": "running",
+    "program": "<python with no main file>",
+    "codePathLocal": null,
+    "git": {
+        "remote": "https://github.com/Augustus2011/gov_doc_ocr.git",
+        "commit": "bd6828f5548d865cf70150fa355bffb20a6a3a1e"
+    },
+    "email": "kun.kerdthaisong@gmail.com",
+    "root": "/Users/kunkerdthaisong/nectec/gov_doc_ocr",
+    "host": "kuns-MacBook-Air.local",
+    "username": "kunkerdthaisong",
+    "executable": "/usr/local/bin/python3",
+    "cpu_count": 8,
+    "cpu_count_logical": 8,
+    "disk": {
+        "/": {
+            "total": 228.27386474609375,
+            "used": 9.560317993164062
+        }
+    },
+    "gpuapple": {
+        "type": "arm",
+        "vendor": "Apple"
+    },
+    "memory": {
+        "total": 8.0
+    }
+}
